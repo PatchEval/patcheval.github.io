@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.beeb1801.css",
+    "main.js": "/static/js/main.7dd14809.js",
+    "static/media/hust.png": "/static/media/hust.3a57d96705e88fc88211.png",
+    "static/media/bytedance_security.png": "/static/media/bytedance_security.99855a9b8f1b4f23156e.png",
+    "static/media/fudan.png": "/static/media/fudan.6a267156d08229b5b35c.png",
+    "static/media/banner2.svg": "/static/media/banner2.280b05d76c01903ac7a2eb940695fb2e.svg",
+    "index.html": "/index.html",
+    "main.beeb1801.css.map": "/static/css/main.beeb1801.css.map",
+    "main.7dd14809.js.map": "/static/js/main.7dd14809.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.beeb1801.css",
+    "static/js/main.7dd14809.js"
+  ]
+}
